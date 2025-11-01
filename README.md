@@ -1,6 +1,6 @@
 # AI Engineering Journey
 
-A living documentation of transitioning into AI Engineering, mapping existing capabilities, ongoing learning, and evolving trajectory.
+A living documentation tracking the expansion of skillsets and toolsets in AI Engineering: mapping current capabilities, continuous learning, and future trajectory.
 
 ## Purpose
 
@@ -18,14 +18,14 @@ This repository serves as:
 
 ## Current Focus
 
-**Active Learning**: Bootcamp on Generative AI, LLM Apps, AI Agents
+**Active Learning**: Udemy / AI Acellera Course on Generative AI, LLM Apps, AI Agents
 - Currently: Prompt Engineering fundamentals
 - In Progress: RAG systems, LangChain/LangGraph
 - Upcoming: Vector databases, fine-tuning, deployment
 
 ## Background Context
 
-Coming from **15+ years in UX/Product Strategy**, I bring:
+Coming from **15+ years in UX/Product Strategy**, Dan brings:
 - Strong product thinking and usability perspective
 - Strategic vision beyond technical execution
 - Cross-functional collaboration and translation between business and technical domains
