@@ -1,6 +1,6 @@
 # AI Engineering Journey
 
-A living documentation of my transition into AI Engineering, mapping existing capabilities, current learning, and future trajectory.
+A living documentation of transitioning into AI Engineering, mapping existing capabilities, ongoing learning, and evolving trajectory.
 
 ## Purpose
 
